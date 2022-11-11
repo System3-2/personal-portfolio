@@ -1,6 +1,6 @@
 import React from 'react';
 import './experience.css';
-import { BsPatchCheckFill } from 'react-icons/bs';
+// import { BsPatchCheckFill } from 'react-icons/bs';
 import { SiTailwindcss, SiJavascript, SiMongodb, SiPhp } from 'react-icons/si';
 import { AiFillHtml5 } from 'react-icons/ai';
 import { DiCss3 } from 'react-icons/di';

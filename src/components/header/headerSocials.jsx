@@ -6,23 +6,23 @@ import { SiLinktree } from 'react-icons/si'
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-      <a href="https://t.co/oXKU6HHuuu" target='_blank'>
+      <a href="https://t.co/oXKU6HHuuu">
         <BsLinkedin />
       </a>
-      <a href="https://t.co/3quWR84tO6" target='_blank'>
+      <a href="https://t.co/3quWR84tO6">
         <FaGithub />
       </a>
-      <a href="https://twitter.com/iRedeploy__" target='_blank'>
+      <a href="https://twitter.com/iRedeploy__">
         <FaTwitter />
       </a>
-      <a href="https://t.co/FLbTvMuQ5i" target='_blank'>
+      <a href="https://t.co/FLbTvMuQ5i">
         <FaFacebook />
       </a>
-      <a href="" target='_blank'>
+      <a href="https://t.co/FLbTvMuQ5i">
         <FaInstagram />
       </a>
 
-      <a href="https://t.co/Ay1wQHMRV7" target='_blank'>
+      <a href="https://t.co/Ay1wQHMRV7">
         <SiLinktree />
       </a>
     </div>

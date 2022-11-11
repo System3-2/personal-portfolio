@@ -1,11 +1,11 @@
 import React from 'react';
 import './footer.css';
-import { FaTwitter, FaFacebook, FaInstagram, FaGithub } from 'react-icons/fa';
+import { FaTwitter, FaGithub } from 'react-icons/fa';
 import { BsLinkedin } from 'react-icons/bs';
 
 const Footer = () => {
   return <footer id='footer'>
-    <a href="#" className='footer__logo'>Oloja</a>
+    <a href="/" className='footer__logo'>Oloja</a>
 
     <ul className='permalinks'>
       <li><a href="#home">Home</a></li>
@@ -19,7 +19,7 @@ const Footer = () => {
       <a href="https://twitter.com/iRedeploy__">
         <FaTwitter />
       </a>
-      <a href="https://twitter.com/iRedeploy__">
+      <a href="https://github.com/OlojaMuyiwa">
         <FaGithub />
       </a>
       <a href="https://t.co/oXKU6HHuuu">

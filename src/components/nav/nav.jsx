@@ -3,7 +3,7 @@ import './nav.css';
 import { AiOutlineHome, AiOutlineUser, AiOutlineMail } from 'react-icons/ai';
 import { BiBook } from 'react-icons/bi';
 import { RiServiceLine } from 'react-icons/ri';
-import { BiMessageSquare } from 'react-icons/bi';
+//import { BiMessageSquare } from 'react-icons/bi';
 import { useState } from 'react';
 
 
@@ -15,7 +15,7 @@ const Nav = () => {
  
   return (
     <nav>
-      <a href="#" className={ activeNav === '#' ? 'active' : ''} onClick={() => setActiveNav('#')}>
+      <a href="/" className={ activeNav === '#' ? 'active' : ''} onClick={() => setActiveNav('#')}>
         <AiOutlineHome />
       </a>
       <a href="#about" onClick={() => setActiveNav('#about')} className={ activeNav === '#about' ? 'active' : ''}>

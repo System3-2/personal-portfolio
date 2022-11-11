@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './about.css';
 import Me from '../../assets/me-about.jpg';
 import { FaAward } from 'react-icons/fa';
-import { FiUsers } from 'react-icons/fi';
+//import { FiUsers } from 'react-icons/fi';
 import { AiOutlineTeam } from 'react-icons/ai';
 import { VscFolderLibrary} from 'react-icons/vsc'
 
