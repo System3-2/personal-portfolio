@@ -29,6 +29,9 @@ const Footer = () => {
     <p className="footer__copyright">
       &copy; Oloja 2022.All right reserved
     </p>
+    <p className="footer__copyright">
+      &copy; Oloja 2022.All right reserved
+    </p>
   </footer>
 }
 
