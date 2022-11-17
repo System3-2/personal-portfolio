@@ -6,4 +6,4 @@
 
 #### Thank you
 
-### [live-demo](https://www.oj-webisite.netlify.app)
+### [live-demo](https://oj-webisite.netlify.app)
