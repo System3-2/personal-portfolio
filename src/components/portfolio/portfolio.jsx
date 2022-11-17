@@ -12,6 +12,12 @@ import img9 from '../../assets/portfolio9png.png';
 import img10 from '../../assets/p10.png';
 import img11 from '../../assets/p11.png';
 import img12 from '../../assets/p12.png';
+import img13 from '../../assets/p13.png';
+import img14 from '../../assets/p14.png';
+import img15 from '../../assets/p15.png';
+import img16 from '../../assets/p16.png';
+import img17 from '../../assets/p17.png';
+
 
 
 
@@ -92,6 +98,61 @@ const Portfolio = () => {
         <div className="portfolio__item-cta">
         <a href="https://github.com/OlojaMuyiwa/react-project3" className='btn'>Source code</a>
         <a href="https://oloja-stripe.netlify.app" className='btn btn-primary'>Live Demo</a>
+        </div>
+      </article>
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src={ img13 } alt="" />
+        </div>
+        <h3>React Movie App</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/react-movie-app" className='btn'>Source code</a>
+        <a href="https://oloja-movie-app.netlify.app" className='btn btn-primary'>Live Demo</a>
+        </div>
+      </article>
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src={ img14 } alt="" />
+        </div>
+        <h3>Random Gihub Users</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/random-github-user-api" className='btn'>Source code</a>
+        <a href="https://oloja-random-github.netlify.app" className='btn btn-primary'>Live Demo</a>
+        </div>
+      </article>
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src={ img15 } alt="" />
+        </div>
+        <h3>Random users</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/random-user-api" className='btn'>Source code</a>
+        <a href="https://oloja-random-user.netlify.app" className='btn btn-primary'>Live Demo</a>
+        </div>
+      </article>
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src={ img16 } alt="" />
+        </div>
+        <h3>Random Quotes React</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/random-quotes-api" className='btn'>Source code</a>
+        <a href="https://oloja-quotes-api.netlify.app" className='btn btn-primary'>Live Demo</a>
+        </div>
+      </article>
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src={ img17 } alt="" />
+        </div>
+        <h3>Sidebar Component</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/react-context" className='btn'>Source code</a>
+        <a href="https://oloja-sidebar.netlify.app" className='btn btn-primary'>Live Demo</a>
         </div>
       </article>
 
