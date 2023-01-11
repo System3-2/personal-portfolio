@@ -6,4 +6,4 @@
 
 #### Thank you
 
-### [!live-demo](https://oloja-portfolio.vercel.app)
+### [live-demo](https://oloja-portfolio.vercel.app)
