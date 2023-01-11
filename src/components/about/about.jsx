@@ -43,7 +43,7 @@ const About = () => {
           </article>
         </div>
 
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique facilis blanditiis unde? Aliquid nulla, pariatur eaque esse totam incidunt accusantium eius temporibus nesciunt cumque aspernatur facere. Non assumenda porro doloremque.</p>
+        <p>Throughout my career, I have had the opportunity to collaborate on a wide range of projects, working with a diverse group of individuals and organizations. I have experience in all stages of the project life cycle, from research and planning to development and implementation. My technical writing and editing skills have helped me to create clear, accurate and actionable documentation for both internal and external audiences. Currently, I am working on upskilling my development skills and I am particularly interested in MERN stack (MongoDB, Express.js, React.js, and Node.js) development. I am dedicated to staying up-to-date with the latest technologies and best practices in my field and I am excited about the opportunity to apply these new skills in my future projects.</p>
 
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
       </div>
