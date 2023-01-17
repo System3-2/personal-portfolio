@@ -157,6 +157,60 @@ const Portfolio = () => {
       </article>
 
 
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGdpdGh1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="" />
+        </div>
+        <h3>Open Source (LinkFree)</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/LinkFree" className='btn'>Source code</a>
+        <a href="https://t.co/YHGPPe2yDl" className='btn btn-primary'>Live Demo</a>
+        </div>
+      </article>
+
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGdpdGh1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="" />
+        </div>
+        <h3>Open Source (awesome github profiles)</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/awesome-github-profiles" className='btn'>Source code</a>
+        </div>
+      </article>
+
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGdpdGh1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="" />
+        </div>
+        <h3>Discord Bot</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/discord-bot" className='btn'>Source code</a>
+        </div>
+      </article>
+
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGdpdGh1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="" />
+        </div>
+        <h3>Login/Signup System</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/Login-Signup" className='btn'>Source code</a>
+        </div>
+      </article>
+
+      <article className="portfolio__item">
+        <div className="portfolio__item-image">
+          <img src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGdpdGh1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="" />
+        </div>
+        <h3>Rest API</h3>
+        <div className="portfolio__item-cta">
+        <a href="https://github.com/OlojaMuyiwa/php-restful-api" className='btn'>Source code</a>
+        </div>
+      </article>
+
     </div>
   </section>
 }
